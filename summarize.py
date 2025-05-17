@@ -6,23 +6,26 @@ from pathlib import Path
 from google import genai
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 # --- Configuration ---
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-SOURCE_DIRECTORY = Path(".")
-TARGET_SUFFIX = ".summary.txt"
-TRANSCRIPT_SUFFIX = ".txt"
-# Consider using a more capable model for better results, e.g., "gemini-1.5-pro-preview-0514"
-MODEL_NAME = "gemini-2.5-flash-preview-04-17" # Faster, cheaper option
+SOURCE_DIRECTORY = Path("./ndm_transcripts")  # Changed to read from ndm_transcripts
+DEFAULT_SUMMARY_DIR = Path("./ndm_summaries")  # Added default summary directory
+TARGET_SUFFIX = ".summary.txt"  # Suffix for summary files
+TRANSCRIPT_SUFFIX = ".txt"  # Suffix for transcript files
+MODEL_NAME = "gemini-2.5-flash-preview-04-17"
 
-# --- Helper Functions ---
 
 def initialize_genai_client(api_key: str | None) -> genai.Client:
     """Initializes and returns the Gemini API client."""
     if not api_key:
         logging.error("GEMINI_API_KEY environment variable not set.")
-        raise ValueError("API key is missing. Please set the GEMINI_API_KEY environment variable.")
+        raise ValueError(
+            "API key is missing. Please set the GEMINI_API_KEY environment variable."
+        )
     try:
         client = genai.Client(api_key=api_key)
         logging.info("Gemini client initialized successfully.")
@@ -31,19 +34,21 @@ def initialize_genai_client(api_key: str | None) -> genai.Client:
         logging.error(f"Failed to initialize Gemini client: {e}")
         raise
 
+
 def read_file_content(file_path: Path) -> str:
     """Reads and returns the content of a file."""
     try:
-        with open(file_path, 'r') as f:
+        with open(file_path, "r") as f:
             return f.read()
     except IOError as e:
         logging.error(f"Error reading file {file_path}: {e}")
-        return "" # Return empty string to allow skipping the file
+        return ""  # Return empty string to allow skipping the file
+
 
 def write_to_file(file_path: Path, content: str):
     """Writes content to a file."""
     try:
-        with open(file_path, 'w') as f:
+        with open(file_path, "w") as f:
             f.write(content)
         logging.info(f"Successfully wrote to {file_path}")
     except IOError as e:
@@ -71,6 +76,7 @@ Summary and Takeaways:"""
     except Exception as e:
         logging.error(f"Error generating summary: {e}")
         return "Error: Could not generate summary."
+
 
 def extract_guest_info(transcript: str, client: genai.Client, model_name: str) -> str:
     """Extracts guest information using the Gemini API."""
@@ -100,33 +106,44 @@ Guest Information:"""
         return "Error: Could not extract guest information."
 
 
-# --- Main Execution Logic ---
+def process_transcripts(
+    source_dir: Path, summary_output_dir: Path, client: genai.Client, model: str
+):
+    """Processes all transcript files in the source directory and saves summaries to summary_output_dir."""
+    logging.info(f"Scanning transcript directory: {source_dir.resolve()}")
+    logging.info(f"Summaries will be saved to: {summary_output_dir.resolve()}")
 
-def process_transcripts(source_dir: Path, client: genai.Client, model: str):
-    """Processes all transcript files in the source directory."""
-    logging.info(f"Scanning directory: {source_dir.resolve()}")
+    if not source_dir.is_dir():
+        logging.error(f"Source transcript directory not found: {source_dir}")
+        return
+
+    summary_output_dir.mkdir(parents=True, exist_ok=True)
+
     processed_files = 0
     skipped_files = 0
 
     for item in source_dir.iterdir():
-        time.sleep(0.1)
-        # Process only .txt files, excluding existing .summary.txt files
-        if item.is_file() and item.suffix == TRANSCRIPT_SUFFIX and not item.stem.endswith(TARGET_SUFFIX.replace(TRANSCRIPT_SUFFIX, '')):
+        time.sleep(0.1)  # Sleep a little bit to avoid rate limiting
 
+        if item.is_file() and item.suffix == TRANSCRIPT_SUFFIX:
             logging.info(f"Processing transcript: {item.name}")
-            target_file_path = source_dir / f"{item.stem}{TARGET_SUFFIX}"
 
-            # Skip if summary file already exists
+            target_file_path = summary_output_dir / f"{item.stem}{TARGET_SUFFIX}"
+
             if target_file_path.exists():
-                logging.warning(f"Summary file already exists, skipping: {target_file_path.name}")
+                logging.warning(
+                    f"Summary file already exists, skipping: {target_file_path.name}"
+                )
                 skipped_files += 1
                 continue
 
             transcript_content = read_file_content(item)
             if not transcript_content:
-                logging.warning(f"Transcript file is empty or could not be read, skipping: {item.name}")
-                skipped_files +=1
-                continue # Skip empty or unreadable files
+                logging.warning(
+                    f"Transcript file is empty or could not be read, skipping: {item.name}"
+                )
+                skipped_files += 1
+                continue
 
             # Generate Summary
             logging.info(f"Generating summary for {item.name}...")
@@ -148,13 +165,14 @@ def process_transcripts(source_dir: Path, client: genai.Client, model: str):
 {guest_info}"""
             write_to_file(target_file_path, output_content)
             processed_files += 1
-        elif item.is_file() and item.suffix == TRANSCRIPT_SUFFIX and item.stem.endswith(TARGET_SUFFIX.replace(TRANSCRIPT_SUFFIX, '')):
-             logging.debug(f"Skipping already summarized file: {item.name}") # Log skipped summary files at debug level
 
-
-    logging.info(f"Processing complete. Processed: {processed_files}, Skipped: {skipped_files}")
+    logging.info(
+        f"Processing complete. Processed: {processed_files}, Skipped: {skipped_files} in {source_dir.resolve()}"
+    )
 
 
 if __name__ == "__main__":
     gemini_client = initialize_genai_client(GEMINI_API_KEY)
-    process_transcripts(SOURCE_DIRECTORY, gemini_client, MODEL_NAME)
+    process_transcripts(
+        SOURCE_DIRECTORY, DEFAULT_SUMMARY_DIR, gemini_client, MODEL_NAME
+    )
