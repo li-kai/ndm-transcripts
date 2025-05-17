@@ -1,0 +1,256 @@
+[ Music ]
+[ Music ]
+
+Speaker 1: The naturalistic decision making podcast with Brian Moon and Laura Militello. This podcast series brings you interviews with leading NDM researchers who study and support people who make decisions under stress.
+
+Speaker 2: Welcome to the Naturalistic Decision Making podcast. This is Laura Militello from Applied Decision Science.
+
+Speaker 3: And I'm Brian Moon from Pear Jine Technologies.
+
+Speaker 2: Today we welcome our friend and colleague Julie Gore. Julie is a reader in organizational psychology at the at the School of Management at the University of Bath in the UK. Julie is a chartered psychologist and a fellow of the British Psychological Society. Her research focus is on the psychology of expertise and naturalistic decision making. She studies a range of professionals who work in the midst of uncertainty. Julie is also an editor for the Journal of Occupational and Organizational Psychology, and she serves on the boards of the British Journal of Management and Frontiers in organizational psychology. Julie is an academic advisor for Nasdaq's behavioral Science lab. And one more interesting fact about Julie is that she received one of the world's first NDM PhD degrees in applied cognitive psychology from Oxford Brooks University in the UK. So, welcome Julie. Uh thank you for joining us today.
+
+Speaker 1: Thank you for inviting me.
+
+Speaker 2: So I am uh curious about, um, your kind of groundbreaking work as one of the first NDM PhD degrees and I wonder what that was like. Were there barriers to doing NDM research in a traditional applied psychology program?
+
+Speaker 1: Um, I think things in the UK 20, 25 years ago were quite different. Um, I was actually in a faculty of business, um, and I had a supervisor, Professor John Mole at the University of Leeds, um, and a supervisor from the University of Oxford, who is a sociologist, and I set my own research question and research direction for my PhD program. So it was much more open than some of the very structured programs that we would see today. Um, so when I became interested in naturalistic decision making, I was interested in decision making per se and John Maul's background is in traditional behavioral decision research. Um, I just had to convince him that going to NDM in Dayton for a conference was a good idea. I convinced him. I went, I met Rona Flynn at the poolside whilst I was reading um models of methods and she said, is it any good? And I was like, yeah, it's really good. And I've been hooked ever since.
+
+Speaker 2: Nice. So how did you hear about the NDM meeting back then we were small and not well publicized?
+
+Speaker 1: I think that I just was a curious researcher and back then I mean it was quite strange because we used to work off micro fish and I must have read something and it I think it may have been Renan Lipshits who had mentioned NDM at another meeting and I just thought that sounds really interesting. That sounds much more like the type of decisions that I'm observing within the management community. Um and so it was kind of um by accident rather than design but a great accident.
+
+Speaker 2: Nice. Yeah. And so you said you were working with um faculty in an a business school. Um, so what was your research question that you used for your PhD research?
+
+Speaker 1: I was looking at exploring hospitality managers decision making processes. Um, and I used semi- structured interviews, um, to access details and stories and narratives about their everyday decision making. So I didn't only explore naturalistic decision making in that context context. I looked at how rational they were and also whether or not they were using any heuristics and biases in their decision making.
+
+Speaker 2: Interesting. And so by hospitality managers are these hotel managers or?
+
+Speaker 1: Indeed, hotel managers working in five-star hotels.
+
+Speaker 2: Oh, wow.
+
+Speaker 1: Yeah. So they had really, um, a whole range of managers. So some of them would be in finance, some of them in marketing, some of them in frontline services. Um, the most interesting ones were those who worked in banquetting, who kind of were responsible for organizing huge events, which sometimes would be external to the hotel. You can imagine, um, catering for 500 people. You have the weather, you have all kinds of aspects of uncertainty going on. So they had quite challenging, um, decisions to make on a day-to-day basis.
+
+Speaker 2: Interesting. And so did you learn anything surprising? That was surprising 20 years ago when you did this?
+
+Speaker 1: Um, I think it was surprising how much expertise they utilized because all of the management, um, literature at that time was, you know, full of rational models or full of heuristics and biases and full of lots of negativity about human behavior, but the behavior that I observed and the cognition that I recorded were really positive elements of you know, people doing really great jobs.
+
+Speaker 2: Nice. Nice. And so you mentioned that you thought in some ways, um, academic PhD programs have become more structured over time. Um, and and so I'm wondering in your role now at the University of Bath, when you encounter students who want to do NDM research as part of their graduate work, um, what, what advice do you give them?
+
+Speaker 1: I still say go for it. I think it's a challenge. I think there's still a theoretical challenge, um, within some areas of academia for NDM. Um, and and I encourage my students to use, um, cognitive task analysis, analysis methods. I've actually examined more PhD students in NDM, um, in traditional psychology departments, um, than I ever thought I would do. And that's been a real privilege. Um, so I still encourage them, but the challenges of conquering all areas, um, of academia are still not quite there yet.
+
+Speaker 2: Sure. Yeah. And so do you, um, I imagine some students come to Bath because they want to work with you because you're an NDM researcher. Um, Yeah. I'm wondering, uh, do you feel like you have to advocate for this perspective, um, with other, uh, faculty at the university?
+
+Speaker 1: Um, I do. Yes. I think that that is, um, that's been the challenge of my career, I think, um, in lots of ways, but I've been championing NDM and being an advocate. Um, and so students come to me who are often, um, have a background in human factors or engineering, um, or mainstream psych and they want to move into an applied area and in the UK, that's actually much easier to do in a management school or an engineering department than it is in a mainstream psychology department.
+
+Speaker 2: And so what, um, what are the kind of common objections or or barriers you hear that you're helping students manage?
+
+Speaker 1: Um, that's a really difficult question, I think. I think one of the questions, um, was kind of quashed a little, um, when Gary Klein and Daniel Kahneman came together in their article about a failure to disagree where they they agree to disagree about whether or not, um, intuition exists and expertise exists as a concept. Um, and I think there's something about the development of science that often as qualitative researchers, naturalistic decision researchers, um, it's not that we're not concerned by the numbers, but the numbers don't always have meaning for us. And sometimes I I think that that dominant mode of thought about numbers having more resonance is still evident. It it's definitely within some areas of science.
+
+Speaker 2: Yeah, that definitely resonates with me as well. I there there are some some schools of thought that that really uh value a quantitative approach almost to the exclusion. I mean, yeah, almost to the exclusion of a qualitative approach.
+
+Speaker 1: Yeah. Rather than than appreciating the strengths of both perhaps, yeah. Yeah. So I mean my students have been in all different areas. Um, so they've been working in healthcare, in finance, um, PhDs I've supervised have looked at emergency services. They've been really working at the hard end, um, of uncertainty in professional groups. But I think sometimes there's a challenge between doing that type of work and publishing that type of work.
+
+Speaker 3: Sure. So Julie, as as you're working with these students, is there anything in particular that you're seeing in them, uh, in their practice, in the way that they sort of comport themselves or or think about the the research and the methods and the models, anything that really surprises you and and also is there anything that really concerns you?
+
+Speaker 1: I don't think it's a surprise that their their socio-technical competence is far greater than us, you know, when we were students maybe 20, 25 years ago. I think their ability to navigate the technology, to navigate the literature um, for research is far superior, um, perhaps, um, than 20, 25 years ago. I think I I do get concerned about where applied psychology fits and I get concerned about the metricization um, that lots of science places on where you publish or how you publish and there's a whole debate going on at the moment around the world about how how do we recognize what is good science, how do we measure that, how do we evaluate it, um, and how can we take into account, um, different forms of research and innovation and insight. And for me, NDM has always been insightful and creative and it inspires my students, um, in lots of different ways. And I I teach naturalistic decision making on a wider course to undergraduate students and to MBA students and they become very captivated by the naturalistic decision making movement, um, and by research stories. So, I'll keep doing it.
+
+Speaker 3: So, so can you share with us any, uh, any particular examples of of students realizing that this is, uh, a worthwhile, uh, venture and bringing NDM into their sort of mental models about how they think about the world? Do you have any particular stories that really show that that transformation happened?
+
+Speaker 1: Um, I think in terms of PhD students that I've examined their theses, who, for example, Nicki Power, who was at, um, the University of Liverpool being supervised by Lawrence Allenson. She looked at emergency decision making. Um, decision making under crisis, looking at emergency services coming together. And she was utilizing not only methods from naturalistic decision making, but also traditional, um, methods of inquiry in terms of looking at transcripts of verbal protocol analysis and such like. Um, but for her, as soon as she began to talk to the practitioners, naturalistic decision making models and recognition prime decision making in particular came to life. And I think that happened for me as a student, and I often see that, um, whether students. I have another, uh, PhD student, Matt Woodward, who's at the University of Cambridge. He's looking at, um, decision making of practitioners, um, in bed capacity management. And he has looked at all kinds of different models of decision making. But he comes back to the naturalistic ones again and again, because they have great value and great meaning, and I think they more accurately describe what goes on inside the heads of practitioners when they're making decisions under extreme uncertainty.
+
+Speaker 3: Yeah, that that's really interesting that students can have that sort of insight, uh, and yet getting to that point to be able to to have that insight is a very difficult thing because the student themselves might not understand the models, might not be very good interviewers, and then the practitioners that they are interviewing also might not be experts, they might not have many examples to share. So, just creating the conditions to enable that insight to happen is is a pretty tricky thing.
+
+Speaker 1: Agreed. Yeah.
+
+Speaker 2: Yeah, you can see why people are drawn to experiments sometimes. They're so much easier to control. Yeah. I wanted to circle back, Julie, like, one of the things I'm hearing you say is that universities value a certain type of publication and that NDM doesn't always fit in that space. Um, but I see that you are an editor, an associate editor and on the editorial board of other journals, um, and so it it sounds like you are kind of on the front line trying to make space for uh this kind of research in in the academic literature.
+
+Speaker 1: Yeah, absolutely.
+
+Speaker 2: Okay. So that has been kind of one of your your drives there.
+
+Speaker 1: Yes, absolutely. Um, the journal of occupational and organizational psychology published a special issue in naturalistic decision making, um, which I edited along with people like Rona Flynn and William Wong, Neville Stanton, um, and it took me, um, I would say three and a half years to negotiate being able to produce that publication for that journal.
+
+Speaker 2: Wow. And as one of the contributors to that special issue, I felt like I got some of the best editorial feedback um that I've ever had. Like the the the reviewers that you lined up were really really really thorough.
+
+Speaker 1: That was a good experience for me.
+
+Speaker 2: That's great to hear.
+
+Speaker 1: I think that that what that particular, um, um, publication did was opened up um, the journal of occupational and organizational psychology, Joop, as we call it for short, it opened up up the possibility of other qualitative researchers, not only the NDM researchers but other researchers in the qualitative space and so we've definitely seen a lot more contributions from NDM researchers and qualitative applied psychologists, which has been great.
+
+Speaker 2: Nice. Yeah. Okay. I want to switch gears a little bit. Um, I know that you work with Nasdaq and I'm sure a lot of people are aware of Nasdaq as this global marketplace for buying and selling securities, but might be surprised to hear that Nasdaq has a behavioral Science lab, um, that consults with NDM researchers. And so I wondered if you could tell us a little bit about your work with them, what kind of questions they bring to you.
+
+Speaker 1: Um, I've been involved with Nasdaq for a number of years now. Um, the head of behavioral science Wendy Jefferson was a former, um, psych student at the University of Surry where I previously was. Um, and Wendy has really championed human factors research and naturalistic decision making. And the types of projects that she's got me involved with have been utilizing cognitive task analysis methods to look at some of their professionals who have got, um, problems with, um, interfacing with masses amounts of data. They tend to look their compliance officers look at huge numbers of of screens of vast amounts of information. And some people are more expert at it than others, um, you know, detecting rogue trading. Um, and so I've often been involved in the the start points of those projects to collect, um, interview data, task analysis data to represent, you know, work as it really is, rather than work as imagined. Um, and the work as imagined in the standard operating procedures at Nasdaq sometimes bears very little resemblance, um, to what actually those professionals do. Um, so that's helped them build new operating systems. At the moment, they're building new software to help decision makers, um, which have been based on cognitive task analysis interviews and critical decision interviews. So I've helped their behavioral science team utilize some of the NDM methods. It's great fun.
+
+Speaker 2: Yeah, that sounds fascinating. Um, so I imagine a lot of that work is proprietary and you can't publish it.
+
+Speaker 1: Yes.
+
+Speaker 2: Is that? Yeah, yeah. Yeah, but very cool that that's even going on. Yeah.
+
+Speaker 3: But but a good good attempt, Laura to try to get at some of that information that'd be would be nice for us to all know that.
+
+Speaker 1: I think yeah, no. Some of my most interesting work, um, like many of us in naturalistic decision making, um, I'm not allowed to talk about. Um, and so that kind of that's quite tough. But what I am allowed to say is that, um, I sometimes work with UK government specialists, um, working on investigative interviewing.
+
+Speaker 2: Very interesting. Wow. Um, yeah, you have a very cool life, Julie. Um, so what is the most exciting thing you're working on right now? What what are you uh excited about these days?
+
+Speaker 1: Um, at the moment, I've just won a research grant to look at, um, accountability and ethics in decision making in digital ecosystems. So that research is just kicking off, um, as part of a new network of researchers who are multi-disciplinary looking at, um, security, privacy and identity and trust. Um, so that, I'm really excited about. We're actually, um, generating research questions, um, to look at accountability and ethics further, um, and my role is really to look and talk to different stakeholders and different groups of people who are already in the security space to say how, um, how are they utilizing their expertise.
+
+Speaker 2: And so is this, um, in the context of like social media or banking or all of that or?
+
+Speaker 1: It's it's all of that. It's really big, um, thinking. Um, the EPSLC, which is um, the UK government sponsored funder has funded, um, a group of universities to set about looking for really interesting research questions. So for the next two years, we'll be working with stakeholders in health, in the military, in policing, in finance, in banking, in all kinds of different organizations and asking them what are their biggest challenges in accountability and ethics, um, and decision making in a digital platform.
+
+Speaker 2: So interesting. So you're on the ground floor kind of to figure out what are some of the the important research questions to invest additional research in.
+
+Speaker 1: Yeah. So that that so at the end of two years, we'll make recommendations based not only on academic theoretical models about what's going on in this space, but also really most importantly from the stakeholders' perspectives, what are important to them, what are their challenges, um, and hopefully by recommending further research questions, we'll generate, um, sponsorship from different organizations, but also sponsorship from the government to look at these questions in greater detail in the next, you know, five to 10 years.
+
+Speaker 2: And will stakeholders include public or end users as well as the folks developing and and monitoring these systems?
+
+Speaker 1: Yes. Yeah.
+
+Speaker 2: Wow.
+
+Speaker 1: It's a it's a model that's used quite frequently now in the UK, um, in order to, um, generate research questions that are important to stakeholders, important to different user groups, um, and that, um, make, you know, university funding, which is very limited in some respects, make it be stretched as far as possible, to make it sure it's looking at the the most valuable questions for theoretical understanding but also for practical impact.
+
+Speaker 2: Yeah, it's such a great model to to take the time to do the foundational work to really understand what are the societal needs, um, and align those with with theoretical questions.
+
+Speaker 3: Julie, I'm wondering, do you anticipate not getting traction in any of these areas, any of these domains, uh, based on experience you've had in the past of of just not being able to convince, uh, folks in a given sector or domain that this is the right kind of approach to take in terms of an NDM perspective?
+
+Speaker 1: Um, I when I first I've walked into organizations, be it in engineering, in health, in in all kinds of different organizational contexts. And when I work with MBA students who are from lots of different organizational backgrounds, they love NDM. They love the approach. They really get it. It has great meaning for them. Um, my challenge is to convince all of the management academic community that it's, um, a worthy science and it is worthy of pursuing.
+
+Speaker 3: So, you you mentioned earlier sort of this qualitative quantitative issue that always seems to crop up. Are there other themes or challenges you've seen with with trying to get traction and trying to convince folks to to go down a particular road?
+
+Speaker 1: No, I don't think so. I think because of the the the the way that we now have a research excellence framework exercise in the UK, um, which sometimes can be very limiting in terms of saying to researchers, you must publish in this type of journal rather than that type of journal. And that that is a challenge, I think, for for junior scholars and early career researchers because they're encouraged to publish in very established journals, whereas I think a lot of the most creative and insightful science happens in newer journals, which might not have, um, such great, um, citation metrics associated with them.
+
+Speaker 3: So, so the challenge for getting traction seems to be in the outputs.
+
+Speaker 1: Yes.
+
+Speaker 3: Interesting. Okay. So it's not even the the methods and models per se, it's it's where you're going to put your outputs, where you're going to show your research that that can be limiting from the start.
+
+Speaker 1: Yeah. I think that, um, showing the the the utility of NDM methods has been really showcased by the Crest, um, center, which is the center for research evidence in security threats. This is again another great big, um, organization and collective of universities who've been very, very prolific in putting together information about NDM methods and decision making methods and getting them out to practitioners and stakeholder groups and I think they've done a great job in doing that, but making sure that that there is a stronger academic theoretical imperative, um, is still that's that's still we're still working on it.
+
+Speaker 2: I just I, um, I I I hear this theme through your whole career is kind of pushing forward, making space for NDM, you know, putting it on in the spotlight. Um, uh, so anyway, I'm just I'm just appreciating all the work you're doing to kind of carry this forward, um, even though it's it's hard, there there are you come up against barriers along the way.
+
+Speaker 1: Thank you, Laura. I love the research. I genuinely think it adds a different story and a different narrative, um, to cognition and I think that looking at positive aspects of human behavior and human cognition are really, really important.
+
+Speaker 2: Agreed. Agreed. So, if you think back over your career, is there one project that stands out that was particularly rewarding, um, to you?
+
+Speaker 1: I think the the work that I was involved with looking at adaptive expertise for the MOD with, um, a team of researchers with Paul Ward, um, and Gareth Conway and Rob Hoffman and Rob Hutton, um, and other people from Chametus, was a really fantastic, um, opportunity. We worked on a couple of projects together looking at taking stock of what adaptive expertise means, um, to military organizations and that was that was great to be part of a team of researchers across the world, um, and also it was great to have impact for that organization and that work is continuing. Um, Rob Hutton is continuing some of the work to look at ways that we can think about improving, um, reflections upon decision making and, you know, reducing the the gap between Novus and experts and rethinking about the way that we can educate, um, you know, military leaders, military commanders. Um, and as part of that work, um, I was invited very recently to, um, the UK, um, defense Academy, um, and I guess that's one of my, um, personal kind of, personal greatest achievements really is that, um, now naturalistic decision making is on the, um, syllabus for the defense Academy. Um, and that that's great.
+
+Speaker 2: That is great. So I, um, I've really appreciate this work you guys have done. I have actually been uh citing, uh uh, one of the adaptive expertise papers uh your team put together quite a bit. I wondered if you would um tell our listeners, um, just a little bit about adaptive expertise. I think I think it's an interesting way of of thinking about and characterizing expertise. Um, we just talk about that a little bit.
+
+Speaker 1: Sure. I think, um, as Rob Hoffman quite rightly says, adaptive expertise is a bit of a, you know, it's a bit of a misnomer really because by design experts are adaptive. Um, but the term that we were asked to look at, um, was given to us by, um, Dstl and the MOD because they were concerned about it. Um, we looked at the the academic literature in lots of different fields to find out how it was defined, how it's been measured, how it's been explored. And we were quite we were we were quite surprised that that that actually, um, adaptivity and expertise hasn't been looked at as much as you would think. And if you're beginning to think about how to educate for adaptivity or train for adaptivity, what do you do, what can you do? Um, and we make recommendations, suggestions, um, drawn on a lot of the work that Paul Ward has completed and then Martin Schrgan, um, and Gary and Robert and others who look at different ways of improving performance, um, and reflecting on how we can think like an expert. Um, and I think there are lots of different ways that we can be more creative, um, in thinking about expertise.
+
+Speaker 2: So, I think a lot of folks, um, in the NDM community think about expertise in terms of the RPD model, right? So you recognize something and you kind of know what to do. Um, and and I I think your work in adaptive expertise is emphasizing uh uh another aspect of expertise. And I'm I'm wondering if you can just, if you have an example at the at the front of your mind of this this is a great example of what we mean by adaptive expertise, what we're trying to emphasize with that term.
+
+Speaker 1: I think that adaptation is dependent on context, Laura. I think the the context and the level of uncertainty, um, that brings to bear on people's mental models, on their so their own mental model, their interaction with other models within their team is affected by the context. But it's having an awareness of that effect, um, that I think is important and I think that we can educate for.
+
+Speaker 2: Interesting. So you think about a military commander and and and part of what this this this concept of of adaptive expertise is is that that even in in novel and unexpected situations, they're able to bring their experience to the table.
+
+Speaker 1: Absolutely. Yeah.
+
+Speaker 2: and. Okay. Yeah. Yeah. Yeah, I think this is a really important emphasis and I'm I'm I'm I'm really enjoying reading this work and and thinking about, um, uh, what that implications are for training, um, in some of my work. So, thank you.
+
+Speaker 3: Well, it also seems particularly relevant these days as we're in a bit of a novel circumstance. Are you seeing opportunities, uh, to push that work forward just in the strange context we're in now, Julie?
+
+Speaker 1: Yes and no. I think there's lots of opportunity. There's lots of, my inbox is full of requests to think about ideas, but I at the moment, I think we need a little bit a bit of time to pause to reflect and actually improve our situation awareness of the unusual situation before we begin to make, um, firm recommendations. I mean, there are lots of different things that NDM could do in terms of utilizing expertise and I think there's lots of work that could be done in terms of how we can transfer our understanding of expertise to different groups within different professional contexts. But in terms of the big picture, um, I think we need a little more time to reflect.
+
+Speaker 2: Yeah, that makes sense. So, I'm wondering if you can tell us about three people who have influenced your approach over the course of your career.
+
+Speaker 1: I think it might be the same three people that lots of people say. So, um, Gary Klein, Robert Hoffman, and, um, of course Rona Flynn, and I'm I'm allowed several more. Kathy Macia and Judith Orisani. Um, Kathy Macia in particular, I get really excited about her work and her backstory, I think is, um, an amazing one, um, before she was a scientist, she had a different career, as a flight attendant and I think that, um, her understanding of teams and groups and contributions to work in NASA has been just really inspiring.
+
+Speaker 2: Nice. Yeah. All all of those have been very influential for me as well. Um, what about outside the NDM community? Who has has really changed the way you think about things?
+
+Speaker 1: I think, um, I don't if you recall, Laura, what many years ago, one of the NDM conferences, Guy Claxton, who is a cognitive, um, educationalist came and spoke at an NDM meeting and he wrote a little book called Hair Brain Tortoise Mind. How intelligence improves when you think less. And his work is is, he's now, um, semi retired, but his work is as an educational psychologist looks at ways we can improve thinking, we can improve creativity and also how we can, um, step back from the situation and give ourselves a little bit more time, um, to think about big problems and difficult situations. Um, he also has a really inspiring, um, series of books working with children and, and, um, improving educational practice and and I think he his work is is particularly compelling. He's written many, many things. He's a prolific writer, has written over 30 books, so, he's definitely worth a read there. Hair Brain Tortoise Mind.
+
+Speaker 2: Nice. Yeah. I uh, I do remember his talk. Um, but I have not followed up. I should I should I should check out some of what he's written. Yeah, thank you.
+
+Speaker 3: So, Julie, you you've been to many uh of the NDM uh conferences and even organized one yourself. Uh, I'm wondering just broad stroke if you've seen any changes that um, that you've noticed uh in the community since your kind of early days of involvement.
+
+Speaker 1: I think the same energy is still in the NDM conferences. I think people get really excited by making a difference, um, to people's working lives. And I think that remains the kind of glue that keeps the community together in lots of ways. Um, but it's also been great to see theoretically, um, developments in macro cognition. Um, next year, you know, moving to work with the resilience engineering group. I think that could be a great opportunity to look at different ways of thinking about cognition. Um, I think NDM has moved from strength to strength.
+
+Speaker 3: So, let's presume you you meet a complete stranger who claims to practice NDM, and uh on the pain of death you're given one question to determine if they do indeed practice NDM. What would you ask them?
+
+Speaker 1: Um, Brian, is this in terms of thinking about a a practitioner or an academic?
+
+Speaker 3: That wasn't part of my question, so let's see. Uh, how about both? Let's give us both.
+
+Speaker 1: Okay. If it was an academic, um, suggesting that they were practicing NDM, I would ask them what is a heuristic.
+
+Speaker 3: And the practitioner?
+
+Speaker 1: And the practitioner, I would probably ask them when do you use your intuition?
+
+Speaker 3: And what are your criteria for determining the answers to those questions being indicative of an NDM practitioner?
+
+Speaker 2: Especially the heuristic one, what what answer are you looking for?
+
+Speaker 1: I think that that anybody who is a real NDM practitioner would say a heuristic can be a positive aspect of cognition.
+
+Speaker 3: That is a great, yeah, that's a great distinguisher.
+
+Speaker 2: Sorry to cut you off.
+
+Speaker 1: And for the practitioner, I think that, um, asking when do you use your intuition, having an awareness of what NDM is, means that they're aware of their expertise.
+
+Speaker 2: Yeah, so the reason I like that heuristic question is I feel like in a lot of circles that is is seen as a negative. A heuristic is a is a a something that causes humans to mess up and make mistakes. Um, and that the NDM emphasis on on heuristics as a, um, an efficient way to to to act, uh, in a positive way under stress, uh, is not appreciated by by all. So, that's that's a really clever distinguisher.
+
+Speaker 3: Yeah.
+
+Speaker 2: All right. So looking forward, um, what are you looking forward to next in terms of your research? Where do you, where do you hope to go next?
+
+Speaker 1: Um, well, I hope to find some really interesting questions looking at accountability and ethics. Um, but also I would like to be able to write a book for my students which maps, um, the history of NDM, um, and provides, um, a forum for them to read that's easy and accessible. I've been saying I've been going to do it for years. I've talked to several publishers, um, so I would love to do that. Um, the experience of writing and co-editing the Oxford Handbook, um, was really inspiring and I felt very humbled that so many people, um, gave up so much of their time, um, to document their work and document all of their interesting stories of NDM.
+
+Speaker 2: I love this idea of a a book about the history of NDM that is very readable and accessible for students. That would be a great contribution.
+
+Speaker 1: We should write it.
+
+Speaker 2: We should. I I'd be happy to help.
+
+Speaker 1: Great.
+
+Speaker 2: All right. So now now we move on to the fun question. I'm going to ask you to tell us two truths about two truths about yourself and one lie, and then Brian and I will both guess which is the lie.
+
+Speaker 1: This is so hard for me. Um, okay. Um, three things. Um, firstly, I once had a job that had a direct telephone to the White House. I once, um, spent a summer living at the Savoy Hotel in London, and I my favorite food, I love eating grilled ostrich.
+
+Speaker 3: Uh, I'm over for two in this exercise, but so Laura, you go first.
+
+Speaker 2: This is hard. It's hard to believe you had a job that had a direct telephone line to the White House, but you have done so many amazing things. Um, I'm going to say that you didn't like grilled ostrich.
+
+Speaker 1: It's the right answer. I got it.
+
+Speaker 3: Right on. Wait, wait, I got to give mine. Yeah.
+
+Speaker 1: Okay.
+
+Speaker 3: Uh, so I believe you have never had a job with a direct line to the White House.
+
+Speaker 1: Ah, a pregnant pause. I like it. Anticipation. No.
+
+Speaker 3: No.
+
+Speaker 1: Anticipation you'll be editing that bit. No. I I don't eat grilled ostrich. I'm a vegetarian.
+
+Speaker 2: Ah.
+
+Speaker 1: Um, a lifelong vegetarian pretty much. Um, and I once really did have a phone that had a direct link to the White House because after I finished my first degree in behavioral science, which is psychology, sociology, philosophy, I worked in hotels in the US, the Marriott hotels and I worked worked at the J W on Pennsylvania Avenue, and I was a concierge and we really did have a telephone that linked to the White House so that we could help organize theatre trips or trips to galleries or dinner trips, etc.
+
+Speaker 3: Did you ever use it?
+
+Speaker 1: I was never allowed to. Still,
+
+Speaker 2: just the proximity. That's pretty cool.
+
+Speaker 1: Yeah.
+
+Speaker 3: Nice. Well, thank you, Julie for speaking with us today. This has been really fun.
+
+Speaker 1: Thank you so much.
+
+Speaker 2: And on that note, thank you for joining us for the NDM podcast. I'm Laura Militello.
+
+Speaker 3: And I'm O for three, Brian Moon. Uh, learn more about naturalistic decision making and where to follow us by visiting naturalisticdecisionmaking.org.
+
+[ Music ]

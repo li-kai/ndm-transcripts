@@ -1,0 +1,205 @@
+Speaker 2: I I've noticed this at the recent NDM conferences that people that are using the NDM basic framework are from a a lot of diverse domains. I think where we started out though is you know, fire fighting, ground fire ground commanders and aviation and maybe a little bit of medicine and now at the NDM conferences, you'll see presentations from the medical field, from police work, from technology security, from sports. You see all kinds of domains and places that I wouldn't have thought of to apply NDM frameworks, but I can see when you listen to people how they really do apply.
+
+Speaker 1: The Naturalistic Decision Making podcast with Brian Moon and Laura Militello. This podcast series brings you interviews with leading NDM researchers who study and support people who make decisions under stress.
+
+Speaker 1: Welcome to the Naturalistic Decision Making podcast. This is Laura Militello from Applied Decision Science.
+
+Speaker 3: And I'm Brian Moon from Pergiene Technologies.
+
+Speaker 1: Today we welcome Kathy Mojer. Dr. Mojer is an Emeritus Professor of psychology from San Francisco State University and the founder and principal scientist of Teamscape LLC, a company founded to conduct research on teams and work environments. She is the president of the International Ergonomics Association, which is the Federation of Ergonomics and Human Factors societies around the world. Dr. Mojer is a past president of the Human Factors and Ergonomics Society and of the Association for Aviation psychology. She has been conducting research on expert teams, automation, cognition, and decision making for over 25 years. Her current research concerns the impact of work environment changes on remote teams in space operations. She is co-PI on a NASA funded project to examine psychosocial aspects of crew autonomy in long duration space missions. Dr. Mojer received her PhD in Industrial Organizational psychology from the University of California, Berkeley in 1990. She worked at NASA Ames Research Center as a post-doctoral research associate and senior research scientist. Welcome Kathy and thanks for joining us today.
+
+Speaker 2: Thank you so much for inviting me. This is a great series.
+
+Speaker 1: Oh, well, thanks. We're really happy to get a chance to talk to you. Um, I always like to start out and ask people how they got started. I think those are generally really interesting stories. I know you did not start out as an NDM researcher. So I wondered if you would tell us a little bit about your early career and how you found your way to NDM.
+
+Speaker 2: Well, I have a a somewhat unusual career trajectory. Uh, I started out as a high school humanities teacher and also taught English to middle schoolers in San Jose. I was a TWA flight attendant on and off for about 12 years and while I was flying, I went back to to school to study psychology. I did a lot of my course work reading and writing on the all nighters between SFO and JFK. So I would sit and do all the reading while all the passengers were sleeping. Uh, and then uh as part of my uh program at San Jose State, I got an internship at NASA Ames and that introduced me to the idea of conducting research in aviation instead of serving meals on airplanes. So eventually I quit flying to start a PhD program at Berkeley. But I was still interested in aviation. I wanted to do a dissertation on pilot decision making. And a NASA research scientist, I think it was Ev Palmer introduced me to Gary Klein who had done some work with him. And I could see the RPD model was superior to any other decision framework to describe what pilots were doing and then I was hooked. Gary came to my tiny graduate student office at Berkeley and talked to me at length and it really made sense to me and that's what I did. So then I was hooked on NDM.
+
+Speaker 1: Wow, so do you miss flying?
+
+Speaker 2: Do I miss flying? You know, what's a nice The job has changed a lot since I started. Um, when I started flying the airlines were still regulated and the work hours and the the benefits and the time off was really good and then started getting more competitive and changing a lot and I don't know if I would like flying now, but one thing that was nice about it is that at the end of your work day, you're done working as opposed to an academic and you can really go out and see the city, you can, you know, do whatever you want and you don't have to worry about a paper that's due at the end of the month or a teaching lesson for next week or whatever. That was a really nice thing about it. And I got to meet a lot of people and see a lot of the world. So, I don't know. I miss the flying parts, but I I don't think I miss what flight attendants are doing these days.
+
+Speaker 3: Yeah, it sounds like such an uh a romantic kind of career. Yeah, it's cool to have started out that way I think.
+
+Speaker 2: And you have to remember it was a different world back then too, you know, that when I was a flight attendant, one of the airline slogans was we really move our tails for you, you know, kind of the thing that you couldn't get away with nowadays, so.
+
+Speaker 3: Right.
+
+Speaker 2: Yes. And also women wouldn't weren't pilots, they were flight attendants.
+
+Speaker 1: Uh, so when you were at Berkeley, you got interested in naturalistic decision making.
+
+Speaker 2: Yes.
+
+Speaker 1: Um, and then you had a whole career in this space and I know a lot of your career you were a professor.
+
+Speaker 2: San Francisco State. Yeah.
+
+Speaker 1: And so I know for a lot of NDM researchers, the emphasis on cognitive field research has been countercultural to their institution. A lot of institutions really emphasize experimental work. And I wondered if this was true for you at San Francisco State, did you find that you had to carve out a space?
+
+Speaker 2: Well, when I started at San Francisco State, the timing was really good because the university was in the process of transitioning from what had been pretty much a teaching university, so you teach four classes a semester and nobody worries whether or not you do any research to a university that wanted to encourage both teaching and research and was willing to reduce teaching loads for people that were doing research and it was uh a time when every kind of research was valued and everything was in flux. So I was lucky enough to be able to define my program of research without worrying about how acceptable it was. You know, it it was it was research, I had grant funding, uh, it was very much accepted, um, by by the department and the administration. So that it was good.
+
+Speaker 1: Very nice. So I know you have recently started a company called Teamscape LLC. I wondered if you'd tell us a little bit about that.
+
+Speaker 2: Teamscape is um, it's a very small company. In fact, it's it's me. It's a single person LLC and I founded the company because after I retired from the university, I still wanted to do uh research work. And so the company enables me to work with universities and work on on grant projects. So we're specializing in in teams, human teams, human automation teams, um, and I've written a lot on human automation interaction. So it's a good vehicle for me and the focus is shifted a little bit from me from individuals decision making into really team processes and team decision making. So it's it's pretty good. I don't go out seeking any commercial business, but I use it as a vehicle for research and it's been very good, very good way to do it. So we have a couple of projects and it's kind of my supplemental retirement from from the university.
+
+Speaker 3: Great. Cathy, well, we'll go back to that, um, kind of that counter cultural question that uh, that Laura asked earlier and I'm kind of wondering, uh, even though the university was sort of open to all sorts of different approaches, I wonder, uh, were there any areas that you sort of struggled to get traction in, like domains or customers that you thought, you know, these NDM ideas, they might be more receptive to than they really were.
+
+Speaker 2: Yes. I'm just thinking about this. One of the reasons that I went from working at at NASA Ames to working in a university was that I wanted to broaden my areas of research. And uh, I had gotten funding from NASA, but I really wanted to like get NSF funding, some funding from other agencies to do some work in different domains on different topics. And it was really, it was really hard to get traction in that. In fact, Laura uh mentioned to me something about the work that I had done about effect and decision making. And we tried and tried to get funding from federal agencies to look at effect in expert decision making because we had a theory that it would it it would um be different for for experts than it would be for uh naive people. that that impact of effect would be different and we could not we could not get funding for that. And and I'm still it's too bad about that because that would have been a really interesting area to pursue. And now I'm doing some work with um the World Health Organization as part of my IEA presidency and we're looking at uh those in charge of patient safety. And now we have a different issue because it's hard to get them to recognize the models of expertise and expert decision making uh enough to put it into their textbooks and into their training materials. So it's another place where we're, you know, we're still struggling to get get things funded and get them defined and get them placed where they need to be placed.
+
+Speaker 3: So what kind of feedback do you get with the with the effect folks? Are they just flat out rejecting you or do they give you any reason why they're not interested?
+
+Speaker 2: You know, it's uh, I don't know if you've ever tried to get funding from federal agencies like NS NSF and it was a case of, you know, coming up with a very good theoretical background, writing everything and then having them not buy into the way that we were going to study it, which we wanted to use professional pilots and and uh experienced decision makers. And it's it was a case of, you know, fixing everything that they said was wrong with one proposal and handing it back in and then having them find something else that they didn't like, uh, that the other the first reviewers really liked. So it was just it was kind of frustrating and it was not really geared towards the kind of research we're doing and I would be curious to know how many people who do NDM work, how many of them get funding from federal agencies because it seems to me that it's it was pretty tough back then, uh and that was but that was several years ago. Maybe things have gotten better since then.
+
+Speaker 3: It has not gotten better.
+
+Speaker 2: Has not got better. You know, yeah, the old models, you know, the problem, generating options, choosing an option, getting an action, you know, that's what they want to see, they want, yeah, it's tough.
+
+Speaker 3: Yeah, that was a a bit flip it, but yeah, it is very hard. Uh, but but I was curious specifically, did they, did they sort of hone in on this effect, uh, in decision making as something they were not interested in or it sounds like it was more of more of a methodological challenge just
+
+Speaker 2: Might have been a methodological challenge. I think, yeah, and uh, or the or that they they didn't go along with, you know, our premise was that um, the the effect literature talks about incidental effect that's, you know, come some what you take into like if you come into an interview and you're angry because of a fight you had with your partner before you got there, that's kind of incidental to what's going on. And then, um, in, um, not increment, integral effect, which has to do with effect that's generated by the situation that you're in. So our premise was that expert decision makers would be able to, uh, put aside the incidental effect. And, you know, if the a pilot comes to work and he's and he's kind of pissed off, he can put that aside, but they can take the integral effect and use it as a cue that they they, uh, can incorporate into their situation assessment. So in other words, if you're not feeling comfortable about what's going on, if you're or if you're a little nervous about doing something and you're professional in that situation, you should pay attention to that kind of effect. But apparently we did not make our case well enough for those agencies.
+
+Speaker 3: Interesting.
+
+Speaker 2: Because we never did get it funded.
+
+Speaker 1: But Kathy, I remember you and Uda giving a talk about effect in pilots. So,
+
+Speaker 2: I I did and I was talking about it in terms of what we predicted.
+
+Speaker 1: Ah, okay.
+
+Speaker 2: Yeah, and that we did some reviews about it, but that's why I said we never got to do a full-blown research program on it.
+
+Speaker 1: I see. I see. Because, yeah, so I think the NDM community has not looked at effect.
+
+Speaker 2: Mhm.
+
+Speaker 1: Um, uh, so I was really very I came away from that talk very excited. That feels like a something we have largely ignored.
+
+Speaker 2: I think it's a really good area for NDM to pursue.
+
+Speaker 1: I agree, but I guess in the absence of funding, that that gap will remain.
+
+Speaker 2: So you need to get we need to get some people, you know, at the the sponsorship levels that really know know about these, know about NDM. I mean, we need HFE, the Human Factors Society of the US has a pace for lobbyists, you know, to make sure that that the issues and the the the terms and the things that we value are known and the the concerns and the research areas. And I suppose, you know, that would be the ideal thing is if if we had some vehicle to get get our terms in at the high levels and get the, you know, the kinds of research we want to do, get them at high levels. And you'll see some receptiveness. You know, for example, the work that we're doing at NASA now, we're, you know, emphasizing using experts to collect data and looking looking at things in terms of how they how they use cues and all that kind of stuff. Um, but it's but it's not I guess I wonder if if the funding agencies think it's not quote theoretical enough to, you know, basic theory for them to be bothered with. I don't know. I don't really know.
+
+Speaker 1: I don't know either, but I'm curious about the work you and Uda Fisher are doing with NASA now. Examining psychosocial aspects of crew autonomy.
+
+Speaker 2: Right.
+
+Speaker 1: Tell us more about that.
+
+Speaker 2: We're looking at, um, what's going to happen to the sense of team. So right now you have remote teams in space and most of the, um, the day and the plans and the projects that are conducted on the ISS, the International Space Station, for example, are controlled by the ground. They don't have, uh, a lot of autonomy in deciding what they're going to do during the day, when they're going to do it, you know, how they're going to schedule their time because the ground is is really, uh, giving them all that information and and kind of dictating a lot of what they do. When you've got a situation where the crews are going long distances and the communication between the Earth and ground takes more time because when you're going to Mars, the delay in communication from the ground to the spacecraft could be as long as 20 minutes each way and they're worried about losing the sense of team between the Earth and and the space crews and how the autonomy that they're going to have to take on because, you know, because it's it's distant, um, because it takes 20 minutes back and forth because they won't be able to, you know, call down to ground for every little thing and ground won't be able to call up to them for every little thing. How is that going to impact this notion of of teams and multi-system teams and teamwork and in groups and outgroups and all of the things that really will factor into their decision making. So it's, you know, we're we've just uh, started looking at this program as you might imagine a lot of things at NASA are delayed from, uh, the COVID, uh, shutdowns of everything and and our research has has been delayed as well, but we've been looking at these, uh, simulations in Houston in a facility that they have, they put people in a space analog for 45-day missions and, and they're there and they simulate a time delay and we are our next project will be to simulate degrees of autonomy that these people have and we're looking to see, you know, who do they think about as being their team? We're looking at the same same kind of thing in Russia. We just finished, um, a four-month simulation and we're going to do an eight-month simulation and a one-year simulation and see how things change over time. Because they don't want the the crews to lose that connection between Earth and the ground, they don't want them to hesitate to call on the ground if they need something or if there's a problem, and they want to see whether or not the space cruise will still be responsive to, uh, you know, demands or requirements that are imposed from the ground. There are a lot of a lot of issues in keeping that sense of a multi-team system when you've got those great distances and the time delay in communications. It's very interesting problems.
+
+Speaker 1: Yeah, this is so interesting. So, so as you do this research, so you have people who are actually living in a pretend space situation.
+
+Speaker 2: Yes.
+
+Speaker 1: And you are manipulating things like the delay they have.
+
+Speaker 2: Yes, in communications, yeah.
+
+Speaker 1: Communications and then you're doing some sort of observations or you're interviewing these folks or?
+
+Speaker 2: Yeah, they're doing they're doing questionnaires, they're doing tasks and we've got, um, for example, you know, looking at different kinds of tasks and what how the interaction with the ground goes and, you know, whether whether or not they decide to figure things out on their own. You know, for example, if they if they have a problem where, you know, they could they could, um, solve it themselves if they took some time and did some research and figured it out or they could, you know, they could get information from the ground, which would make it easier, but it would take some time to get it back. And, you know, as a function of how long it takes, as a function of how long they've been gone or, you know, quote gone from Earth and, um, as a function of the kind of task it is and we're getting we're getting some informa informative data. It's really, uh, the first thing, the first project that we did was how do you communicate when there's a time delay? How do you keep track of the threads of conversation and how do you know when you get uh, a message, when you send a message and it takes, for example, 10 minutes to get there and 10 minutes to get back. How do you track it? So if you get something in between, you know what people are responding to. There are all kinds of issues just in the communication itself. And then when you add the notion of autonomy and if it's difficult to communicate, you know, how does that impact your willingness to communicate and your sense of, well, they're part of my team, so I really need to keep in touch with them. I really need to let them know what's going on. You know, I really need to respond to questions that they ask or tasks that they ask me to do. It's it's it's very worrisome for the the whole space program because the the team element and the human element, uh, if it goes array, it can really sabotage missions. You know, the technology can be perfect, but if, you know, the crews don't get along when they're up there and if they don't work together, you really can't call the mission a success.
+
+Speaker 1: Right. And so you said there's one simulation facility in Texas and another one in Russia.
+
+Speaker 2: This one, mhm.
+
+Speaker 1: Are you seeing cultural differences?
+
+Speaker 2: some. So we're not someone else, some other researchers looking at cultural interactions and we're seeing for example, in Russia, in the simulation, uh, we're we're having a high autonomy condition and in Russia that was kind of their assumption. And whereas the Americans assume that there's ties to the ground and there's interactions and there's uh collaboration and there's uh some control from the ground. The Russians assume that the people that are in their simulation are going to solve their problems on their own if they can. So there were some differences that way, but the cruise that are in Russia are multicultural. There are Americans in them, uh, Europeans, Russians, uh, I think we may have one Japanese person in the next simulation. So it's it's varied.
+
+Speaker 1: Wow, this is fascinating.
+
+Speaker 2: I think it is. That's why I'm still working. Even though I'm in and still
+
+Speaker 1: Yeah, so I know you've done lots of interesting things over the course of your career. I wonder if you just kind of think back over the things you have done, what project has been most rewarding for you?
+
+Speaker 2: Early on, I think that the work that I did on the professional pilot decision making. Uh, I think that that brought a new perspective to decision making and also interaction with automation and it was very rewarding. So starting with I did my dissertation to define and describe how expert pilots followed uh recognition prime decision framework in the operational environment. And then uh early at NASA, we were looking at the impact of automation on flight crew coordination and decision making. And and that work with my colleague uh Linda Skitka, I originated the term automation bias and conducted the first research on that phenomenon and it was exploring how uh in this work, how pilots used automation as a heuristic as a replacement for any kind of vigilant situation assessment because the automation was there and sometimes it led to errors and those errors were automation bias, result of automation bias. And now if you look in the literature, you'll find that term in uh aviation certainly and also in other domains. I've seen references to some of the early work in issues like uh ethics and ethics when you're using automated systems and medical uh scenarios, it's, so you'll see it now in a lot of places. So that that was really good work and the work that I'm doing now is also very rewarding, but it's different.
+
+Speaker 1: Sure. So, so when you were um doing this work on pilot with pilots and automation, this must have been in the 1990s.
+
+Speaker 2: It was.
+
+Speaker 1: What kind of, I mean, I, yeah, I'm guessing automation what kind of automation were were pilots dealing with at that point?
+
+Speaker 2: Well, at that at that point, you know, I was I was at NASA Ames and they were doing work, they had done some work on uh what kind of automation it took for an aircraft to fly with two pilots instead of three. And uh so you were just getting uh automated systems that would not only, you know, take over as an autopilot, but things that you could program. So you could program a flight and a pattern and a landing into a computer. So basically computerized flying. That was it was beginning and people were doing work on human centered automated systems and making sure that people weren't too far from the raw data and could one of the things that we talked about was if you've got an automated system that's giving you processed information, make sure there's also a way to look at the raw information, uh, so that you can verify it. So that that was what was going on back then and and now the level of automation is is so phenomenal that well you see there are drones, right? Uh, pilotless aircraft that are being flown from the ground and they're looking into things like single pilot operations where if you need extra help, where you're flying, somebody could take over from the ground and help you out and in the meantime, you would be flying with the automated systems as your co-pilot, basically. So, I think the higher levels of technology and automation are and continue to be very interesting research fodder. There's a lot to be looked at in all of those systems.
+
+Speaker 1: Absolutely. Yeah, and so this concept of automation bias, um, is that is that uh um focused on over relying on or over or or or yeah, relying on the automation when perhaps you should not?
+
+Speaker 2: Yeah, in part. It's on over relying and not cross-checking. And, you know, people are doing research that kind of complements that. Like, like the characteristics of automation that they want are observability and predictability and transparency. So you need to be able to, if the early early on when automated systems were introduced, pilots kind of called them magic because they didn't quite know how they worked and and so they they couldn't really know how to track what they were doing. So a lot of the research that's been conducted lately and I know some NDMs are doing something in this line is how do you make systems that are are transparent and observable so that people won't rely on the systems to the point that they don't check out what they're doing and they don't understand what they're doing. So today's systems and and uh, uh, I'm hesitating to bring this up because I I don't know the precise information but some of the the problems with uh, the Boeings, the 737 Maxes were that the airlines didn't order the redundant displays that would verify what was going on. And so pilots didn't have that information readily available to them and it can be a problem.
+
+Speaker 3: And and potentially an increasing problem as we have more and more systems.
+
+Speaker 2: Potentially increasing problem. Exactly. And as pilots, uh, tend to, you know, now, you know, now people are trained on automated aircraft from the beginning. So they're really dependent on using automation in their flying.
+
+Speaker 3: Sure. So Cathy, that that concept, um, you know, as you said, we we see that in a lot of uh research activities going on now and so it's for us research types, it's sort of something we look out for and so your early work there influenced a lot of us. I was wondering if you could think back to sort of who was influencing you early on, uh, and and who you looked to as, you mentioned Gary already, so we've got him.
+
+Speaker 2: Yes. Okay, Gary, yeah, he got, he got me on the road. He's very influential. And, uh, you know, he he went on to, I guess the the father fathership of NDM, but yeah, that was his doing and also I have to, uh, credit Shelley Za who was my advisor at Berkeley, who is an industrial organizational psychologist who didn't have any anything in his area of expertise about aircraft, about pilots, about, you know, this kind of thing, but he gave me a lot of latitude in what I would what I would do and how I would do it. And that that really influenced me and and his motto kind of was you do, you pick your things that are interesting and I think that's a very good model to follow and I still do work that I find interesting. And also also Judith Arsano who was at NASA Ames when I was there who gave me a lot of guidance and support. She was there when the first NDM conference was was conducted and I can't remember why I didn't go to that. There was some reason, I think it's, I don't know, but anyways, but she gave me a lot of, um, uh, support at NASA. So, yeah, that's three, right? three people.
+
+Speaker 1: Yeah. So you mentioned, uh, you weren't at that first meeting, but you were in the conversation talking to those folks and then I think I met you for the first time at the second NDM meeting and I know you've been to many of these, you've even organized one. I wonder, um, if you could reflect on what are some of the changes you've seen in the NDM community over time.
+
+Speaker 2: Well, there, I can see several changes and several facets. One is that we've we've really moved from from the step of defining and under defining and understanding the NDM paradigm. We've moved from that to developing theoretical constructs around it, like metacognition and sensemaking and really broadening and refining all of the theories and models that have been developed from the beginning. And some have kind of fallen along the way side and others have really really been, um, honed. And also, I I've noticed this at the recent NDM conferences that people that are using the NDM basic framework are from a a lot of diverse domains. I think where we started out though is, you know, fire fighting, ground fire ground commanders and aviation and maybe a little bit of medicine and now at the NDM conferences, you'll see presentations from the medical field, from police work, from technology security, from sports. You see all kinds of domains and places that I wouldn't have thought of to apply NDM frameworks, but I can see when you listen to people how they really do apply and all kinds of areas where experienced people are making decisions. So it seems like it's it's attracting uh much broader uh group of researchers than when it started and I think it's it's really good.
+
+Speaker 1: Yeah, I agree. I had not thought about that, um, kind of uh explosion of domains but but you're absolutely right. The other thing I notice is just people from more more parts of the world, researchers.
+
+Speaker 2: Yes.
+
+Speaker 1: From Singapore and uh Australia and, you know, just we're getting people from all over the world who are Japan,
+
+Speaker 2: Yeah, it's great.
+
+Speaker 1: So what kind of advice do you have for people who are just starting out and want to do NDM research?
+
+Speaker 2: Probably, I would give the same advice to people starting out in most areas of research. One would be find find a mentor, uh, someone that's doing or has done similar things and talk to that person about getting started and where to look for uh, funding and participants and how to get involved and internships and all of those kinds of things. I think that that can go a long way towards uh, getting people started. It's hard hard to go out and do on your own, you know, say I'm I want to study uh, fire ground commanders or I want to study pilots or I want to study doctors, find somebody, I would say find somebody that's doing uh something in the area that you want to be in and and and get some uh counseling and mentorship.
+
+Speaker 2: I think one of the things I really value about the NDM community is that I I think there really is a a real apprenticeship sort of a community that that, um, people do tend to do that to find someone who is, you know, able to kind of help them find their way into law enforcement or fire fighting or whatever that domain is.
+
+Speaker 2: Yeah. The ment sometimes I think the people that that start out start out coming from the domain and they want some answers to things that they see going on in their domain. So they need someone to help them with the the research part. So I think those can be really good collaborations. That's one of the things that makes NDM research so unique is that it really depends on collaborations between uh, people in in a domain or in a specific context and the the people doing the research. So, I would say definitely try to establish those kinds of collaborations.
+
+Speaker 3: So Kathy, getting down to the essence of of what NDM means to you, I have a uh playful question that hopefully gets at that. Um, so if you you were to meet a complete stranger who claims to practice NDM and on the pain of death, you are given one question to determine if they do indeed practice NDM, what would you ask?
+
+Speaker 2: Can it be a two-part question?
+
+Speaker 3: It can be, yes.
+
+Speaker 2: Okay. I would say, uh, who do you study and what decisions do they make? Who whose decisions do you study? I guess is a way of putting it. So, if you say experts or uh, pilots decisions or police officers decisions or security, uh, decisions or referee or sports players decisions rather than the average person's decisions. And I would contrast it, for example, to looking at the heuristics and biases research that use nothing but naive subjects. I would say, who's whose decisions are you looking at the experts? I don't know. Do you think that would do it Brian?
+
+Speaker 3: I think you get pretty close, yes. We've had a lot of really interesting answers to that question. It's been it's been fun to see the different the different aspects of NDM that people stress, uh, in giving that response. But yeah, certainly, you know, the focus on on the uh expertises is one that, um, other folks have offered.
+
+Speaker 2: Sorry, I'm just realizing was that question about if you just uh who claims to practice NDM? And I was thinking research NDM.
+
+Speaker 3: Uh, right. So you could also, um, yeah, you could also frame it as I think you did, which is, you know, put put an emphasis on the actual decisions in the domain. But, um, do you want to change your answer now that it's uh, about practicing NDM? Uh,
+
+Speaker 2: Well, if I'm asking if if they practice NDM, I would say, how do you make decisions?
+
+Speaker 3: And you'd be listening for what?
+
+Speaker 2: Listening for things not like, well, I consider all the possibilities and weigh them against each other and, you know, choose the one that that, uh, I think will work out the best or rather than I really study the situation and kind of figure out what's going on before I make a move or something like that. You think that would work? Yeah.
+
+Speaker 3: I think it would.
+
+Speaker 2: Fortunately, I hope I never have to do that on pain of death. That would not, you know, that's
+
+Speaker 1: Good point, good point. So Kathy, we have one, um, one last fun question. So we're going to ask you to tell us two truths about yourself and one lie and we are both going to try to guess the lie.
+
+Speaker 2: All right. Uh, I always knew I wanted to be a scientist or researcher eventually. I am claustrophobic and I can't scuba dive or explore caves. And, uh, I have a private pilot's license and a hang three hang gliding rating. That's three. Yeah.
+
+Speaker 3: I hope that last one is true. I am going to say based on your earlier career conversation that you, um, weren't quite sure what you wanted to be. So I think that's the lie.
+
+Speaker 1: I'm going to guess that you are not claustrophobic.
+
+Speaker 2: Ah. Well, Brian is right. I I I remember, I remember thinking that being a researcher or a scientist would must be one of the most boring things you could do because you weren't interacting with people and, you know, I thought, no, I couldn't do that. I have to be with people, you know, flight attendant fit into my early kind of concept. And I am highly claustrophobic. For scuba diving, I tried it once and I didn't do very well at all. So, Brian was
+
+Speaker 3: So you took to the air.
+
+Speaker 2: Yeah, I took to the air and it's interesting to me that, you know, I could, I could jump off a mountain with basically a kite strapped to me, but I couldn't go 10 feet under the water with a breathing apparatus. Everybody has a hang up, right?
+
+Speaker 1: Well, Kathy, I want to thank you for speaking with us today. This has really been a pleasure.
+
+Speaker 2: Thank you. Thank you for the invitation. It's been a pleasure for me as well.
+
+Speaker 1: Well, on that note, thank you all for joining us for the NDM podcast. I'm Laura Militello.
+
+Speaker 3: And I'm Brian Moon. Learn more about Naturalistic decision making and where to follow us by visiting naturalisticdecisionmaking.org.

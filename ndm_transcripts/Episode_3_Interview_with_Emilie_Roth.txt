@@ -1,0 +1,225 @@
+(Music)
+
+**Narrator:** The naturalistic decision making podcast with Brian Moon and Laura Milatello. This podcast series brings you interviews with leading NDM researchers who study and support people who make decisions under stress.
+
+(Music fades)
+
+**Laura Milatello:** Welcome to the naturalistic decision making podcast. This is Laura Milatello from Applied Decision Science.
+
+**Brian Moon:** And I'm Brian Moon from Paragean Technology.
+
+**Laura Milatello:** Today, we're talking with our friend and colleague Emily Roth.
+
+**Laura Milatello:** I first met Emily at the second Naturalistic Decision Making meeting in Dayton, Ohio in 1994. But she had been studying how people managed complexity long before that meeting. In fact, I remember at that meeting thinking, I want to be like her.
+
+**Laura Milatello:** Emily is one of the people that inspired me to think I really could be a scientist. And I know Emily's inspired many others over the course of her career. She is one of the architects of the cognitive systems engineering movement. She had an important role in redesigning nuclear power plant control rooms in the wake of Three Mile Island, and that was just the beginning. Her contributions have been felt far and wide. She now lives in Palo Alto, California, where she runs Roth Cognitive Engineering.
+
+**Laura Milatello:** So Emily, thank you for speaking with us today.
+
+**Emily Roth:** Thank you. I looking forward.
+
+**Laura Milatello:** Good. So I wanted to start by going back to the very beginning of your career. And I'm wondering if you can remember the first paper you ever published and tell us something about that.
+
+**Emily Roth:** Oh, sure. Uh, so, uh, that was when I was back in graduate school in the, uh, mid 70s. Uh, and I was really studying to be a, uh, an academic, uh, a, uh, cognitive psychologist. And I was interested in, uh, reasoning and language, but but in in very sort of controlled and and pure science, uh, ways. Uh, and so the the study, my first study that I published was my master's. And it's an interesting study because it it both reveals my experimental psychology, controlled laboratory, sort of roots on the one hand, but also my lasting interest in focusing on what makes people competent and and allows them to, um, reveal their competence and their ability to to problem solve, rather than focusing on biases and errors.
+
+**Emily Roth:** Um, and and it also, I think, reveals my early interest in not only relying on objective performance, you know, response time and error rates, but also thinking about people's explanations, your verbal protocols of why they did what they did.
+
+**Emily Roth:** Um, and so this was a a very sort of, um, an abstract reasoning task that was well known to cause people to make errors. Even, you know, academics and engineers and, uh, PhD scientists. Uh, and that's the called the four card problem. And the idea is you tell people, okay, I've got these four cards, and they have a number on one side and a letter on the other side. And I'm going to show you the four cards and I'm going to give you a rule. And let's say the rule is, if there's a two on one side, then there's an A on the other side. So, we know there's a number on one side and a letter on the other. And so I show you four cards and the cards have a two, a B, an A, and a three. And, um, what you're asked is, uh, what cards would you need to turn over to figure out whether this rule is true or not?
+
+**Emily Roth:** Well, most people are drawn to come up with a very quick answer that seems obviously correct, but is wrong. So people say, oh, uh, you should choose the two because you want to make sure that, um, there's a an A on the other side, and and they're right about that. Uh, but then they say, um, and you should choose, uh, the A. Uh, but in fact, what you should do is you should choose the two, but but you should choose the B. And and the reason for that is that, uh, you choose the two because you want to make sure there's an A on the other side, uh, but you choose the B to make sure there isn't a two on the other side, right? So there was a two and a B, then the rule, if there's a two, then then then there's an A would not be right.
+
+**Emily Roth:** Um, and we already knew from uh prior studies that people were bad at this task and and the question I asked, posed myself is, what can you do to make people understand more quickly what the right answer is?
+
+**Emily Roth:** Um, and one solution I came up with was, uh, what if you block the incorrect answer? You know, if you make it impossible for them to give you the answer that's not right, it might cause them to step back and think about it harder. And and that's in fact what we did. So we we would give them the rule, if there's a two on one side, then there's an A on the other side, um, but then we wouldn't give them, then we'd give them three cards, let's say, uh, not four. We wouldn't give them the two. That what they'd see is, uh, an A, a B, and a three. And so they couldn't, um, give the obvious answer that would just jump out at them, they had to think about it a little bit. And sure enough, when you do that, people are much more likely to say, oh yeah, you have to check the B, because if you turn the B around and there's, um, a two, then then you know the rule is wrong.
+
+**Emily Roth:** Um, in today's parlance, uh, that, uh, people talk about that is using system one versus system two. So, so the idea is, uh, system one is quick and intuitive, but can sometimes be misled, and system two is is slower and allows you to think things through.
+
+**Emily Roth:** Um, and I think in in this kind of study, the the point was how do you, uh, get people to more naturally, uh, realize that they need to use system two.
+
+**Emily Roth:** Um, and so as I say, the I think the study both, uh, reflected the fact that, you know, those doing these very controlled laboratory studies, uh, with P values, etc., uh, but that I was also interested in in people's competence and and what, uh, allows them to to manifest it. You know, it's in there. It's just, uh, them showing it.
+
+**Laura Milatello:** So I didn't I did not know this about you. This is so interesting. Even when you were doing your master's degree, you were exploring ways to kind of support performance so people do better.
+
+**Emily Roth:** Yeah, I didn't think about it that way at the time, right?
+
+**Laura Milatello:** Wow, but that kind of foretold much of the emphasis of your career. That's That's really cool.
+
+**Laura Milatello:** Um, so okay, so next question. I'm wondering if, um, so you started out in experimental psychology and were interested in more basic research kind of questions. I'm wondering if you can think of a time or an event or kind of how your career took a turn and you started moving into more, uh, naturalistic kinds of studies.
+
+**Emily Roth:** Okay. So, so some of it is I've got to, uh, pull back a little bit and and maybe just, uh, talk about about personally, um, what shifted, uh, my direction. Some of it was was really happenstance. And, uh, you know, I I, uh, got married to my husband, Al Roth, and we were, uh, the University of Illinois. He was, uh, a faculty member in the economics department and business school, and I was a graduate student in psychology, uh, at the University of Illinois. Um, when I graduated, we needed two jobs. And, uh, it was a, it was a time when it was very hard, uh, to have get economic, um, academic jobs in psychology. And two jobs had made it particularly hard. So we both took a very scary leap.
+
+**Emily Roth:** Um, Al, uh, had an opportunity to take a position at the University of Pittsburgh and we we knew nothing about Pittsburgh. And, uh, uh, I, uh, didn't have a job, uh, when when we arrived in Pittsburgh, but I, you know, applied, uh, broadly. And, uh, I, uh, was just very lucky. The first day I arrived, uh, in Pittsburgh, uh, we went to Al's office and and there was a letter for me from, uh, Lou Haynes at, uh, Westinghouse Science and Technology in out in Pittsburgh, uh, offering me an interview. And, uh, I ended up, you know, maybe long story, I I ended up, uh, working at Westinghouse.
+
+**Emily Roth:** And and so, um, when I got to Westinghouse, I was, um, challenged with very exciting problems. But these were not problems that were amenable to address using traditional experimental design and statistical tools. Uh, so a specific example is, um, uh, nuclear power plant operators, uh, Westinghouse built nuclear power plants, um, often had trouble during startups, starting up the plant. And they would make errors that would lead to plant trips. But there were some expert operators that, uh, the plants would always rely on to start up the plant error-free and and to do a good job.
+
+**Emily Roth:** And so, um, our customer came to us and said, gee, could you figure out how these experts do the task? And we would build an expert system to do the task exactly how they did it. Um, so so this is a question that that is more exploratory, it's about the basis of expertise. And, uh, it seemed natural, uh, to to go back to first principles about how you do exploratory, uh, kinds of studies. And, uh, we coupled, uh, incident analysis, critical incident analysis. We asked operators who were really good at the task to give us examples of, uh, times things went well and times things didn't go well. And we also were were lucky we had a simulator, we could bring them into the simulator and observe them, uh, perform, and observe them, um, talk in the context, uh, of of actual performance, about what it was they did. Uh, and that was a much more, uh, meaningful way to understand performance. It it wouldn't have made any sense to try to, you could have, try to bring the task into a lab environment, but but you wouldn't have gotten to the pragmatic expertise, uh, and and a crystal examples that comes to mind is in the simulator, um, we had operators and they were having fun with each other and and one was at the reactor side and one was at the secondary side and they said, ho ho, we're gonna demonstrate to you how this works. Uh, and they said, two shrinks is equal to a swell. Uh, and and and that was to indicate that, uh, they understood the dynamics of the startup and the dynamics of how, uh, water, uh, worked, uh, feed water worked during the startup and that, uh, you needed to compensate for, uh, shrinks that arise when you're putting in cold water, by doing other things that that might create a swell, that that might create expansion.
+
+**Emily Roth:** Uh, and so that kind of expertise was best understood through observations and interviews and best, um, uh, dealt with through better training and better displays, rather than trying to build an expert system to replace the performance.
+
+**Brian Moon:** So I'm curious, um, uh, did did, um, was there an expectation that you would do more experimental sorts of things and and and you had to kind of find your way to these other methods or or were you already familiar with interview strategies and and observation and that sort of thing?
+
+**Emily Roth:** So, um, I'm trying to think because, uh, you know, uh, I did come from Pittsburgh and and I I know you spent time in Pittsburgh as well and that was, um, I mean I I was in Pittsburgh for, um, um, at Westinghouse. Um, and that was the time when Herb Simon was doing a lot of protocol analysis and the kinds of studies and so it was in the air. Uh, and I think, uh, yeah, there there I think there was starting to be understanding about, uh, careful observations and and verbal verbal protocols and critical incidents. Um, and of course, uh, it was also a time when we were uncovering, uh, some of our close colleagues who were simultaneously, I think, you know, inventing, uh, tools and methods, uh, like Gary Klein and and Robert Hoffman.
+
+**Laura Milatello:** Nice. So I have one more follow-up about that. So they, they, the question they, they, they posed was, can you create an expert system that would be able to do what these, um, really experienced humans can do. How did that work out? What, who I know.
+
+**Emily Roth:** So, you know, I think we, um, through so so this was work done in collaboration with Dave Woods and, uh, and actually some, some, um, control theory guys as well. Uh, John Gallagher was involved. Uh, and, um, we actually used multiple approaches. We we actually, uh, created, uh, visualizations that allowed people to perform the task in better ways. So, I think among the things that we learned from this is is sure, you know, we could have built an expert system that that told, um, the operator, okay, if you're in this situation, you know, two, uh, shrinks equals a swell, so, uh, tap twice on, uh, the feed water and then at the same time, increase reactor level by a certain amount. You could try to do that, but that's sort of like trying to teach someone to to drive a car by saying to them, you know, move the steering wheel to the right three times, then move the steering wheel to the left two times. It's just not not doesn't make any sense. So instead, what we did was we imagined the task, create new visualizations that allowed people to see directly, um, how to do the task smoothly. So they didn't have to memorize these, um, strategies for making visible what was invisible. We we actually created visualizations that allowed them to to do the task more smoothly.
+
+**Laura Milatello:** Wow. Yeah, so, um, you're saying this in such a matter of fact way, but I happen to know this was really ground bacon, breaking work that, uh, that, um, wasn't what people were expecting. That wasn't the outcome people were expecting and it was a really, uh, powerful and impactful outcome. So, that's a really cool, cool, cool story, cool experience.
+
+**Brian Moon:** So Emily, you're also using these terms shrinks and swells and feed water as if the rest of us know what that stuff is.
+
+**Emily Roth:** Sure, sorry.
+
+**Brian Moon:** I I I will say actually that I do know what some of that stuff is. I I I also had a Westinghouse project around, uh, 2010, went on for about three years in more of a knowledge management aspect. So, some of these folks that you may very well have worked with, uh, nearing the end of their career, and Westinghouse at the time, uh, was going through a bit of a resurgence, uh, with, uh, new plants in, uh, in the U.S. and China. Uh, and so they were really interested in and how can we get some of that expertise, uh, out of the heads of folks who are going to be leaving, uh, and into the heads of all these fresh-faced engineers. Um, and so that was, uh, my sort of experience with Westinghouse, but I I I I'm, as you're mentioning these terms, I'm sort of thinking back and and remembering how challenging it was in that project to simultaneously try to execute, um, cognitive task analysis methods and start to understand how a nuclear power plant works. Right? So, so, so that domain is incredibly complex. And so I'm wondering, I have a general question sort of about, you know, barriers in terms of things that you've had to overcome, uh, that might have been more difficult than you expected in your career, but I'm specifically interested in in your very earliest days there at Westinghouse, as you're trying to understand what this whole domain is about. Did you, did you feel that that was a particular challenge and just trying to understand, you know, the, the, the ins and outs of a nuclear power plant?
+
+**Emily Roth:** You know, um, absolutely, you know, there was a a a serious learning curve. On the other hand, I was very lucky to be working as part of teams that that brought that expertise to bear. So so again, early in in in my career when I, um, arrived at Westinghouse, Dave Woods was already there. And he already had started, uh, along these lines of of research. And, uh, we had, um, we aligned ourselves with, um, engineers from the nuclear energy group, uh, including Bill Helm and John Gallagher and Jamester, who were very patient in explaining to us, um, uh, nuclear power plant operations. And in turn, we could, uh, you know, translate that into, you know, psychological notions of people having wrong mental models, or how you could bring visualizations to, uh, break to to make clearer what was going on in in the dynamic process.
+
+**Emily Roth:** Um, but the other thing, uh, that it raises is, um, the, uh, another sort of core, um, uh, formative element for me when I hit Westinghouse was the emphasis on on really understanding the domain and what makes it hard. Uh, and so we we we did work very closely with people like John, uh, Gallagher and Bill Helm to develop, uh, work domain analysis, you know, to sort of understand the dynamics of these processes and and what parameters were being controlled and and what information was available about those parameters in the control room. And and the answer is not enough. That information wasn't available because at low levels the sensors didn't provide sufficient guidance.
+
+**Emily Roth:** Um, so, um, we we we needed to simultaneously use what we call cognitive work analysis, domain analysis, to really come up with a map of what information you really do need to to solve these problems. Um, together with the the psychology, understanding people's mental models, their strategies, and and what allows them to perform successfully.
+
+**Brian Moon:** So the tools were were helpful as well as the other people were helpful in sort of overcoming that particular barrier. I'm wondering if if if as you think back over your career, are there other barriers that, um, you, uh, experienced that were more difficult to overcome than you might have expected?
+
+**Emily Roth:** You know, um, I I'm thinking hard about that question and and ironically, um, I I feel very lucky in my career, um, in that, uh, one, you know, I was a young female psychologist, uh, in a, in a world, uh, that mostly I was dealing with, uh, male engineers. And you could imagine that, um, I would have difficulty both because of my gender and because, you know, I I I'm a sort of soft, uh, more soft qual rather than a quant, right? Um, but in fact, I I, uh, didn't, and maybe I, uh, didn't know to expect it, but but I I I did experience that at all. Uh, when I hit Westinghouse, uh, they were very supportive, the people that that helped me advance through the system, uh, like Dave Woods and, uh, my boss, Lou Haynes, who was an amazing boss. And there were engineers that that respected the knowledge I was bringing to bear with with respect to psychology and human computer interaction, and they were quite thirsty for that kind of knowledge. Um, and and so it it definitely felt collaborative that that they were teaching me nuclear power and and I was, uh, you know, explaining to them about, uh, natural language understanding and, uh, mental models and, uh, how you need to observe people as well as, uh, have them talk through things. So so it was I think there was mutual respect.
+
+**Brian Moon:** Yeah, that's great. I I I can think of a similar, um, sort of perspective as I was at Westinghouse and and that's kind of built into their culture, right? With their their consulting engineer levels, you know, folks who have a lot of experience there are expected to be mentors and expected to sort of guide people. So it's a really interesting sort of organizational culture to be involved in.
+
+**Emily Roth:** Yeah. No, I agree and I actually, uh, I haven't experienced many other corporate environments, so I, you know, I I don't know how different they were, but, but, uh, you know, Westinghouse at that time and especially Westinghouse Nuclear Power folks were were just, you know, amazing people, just the way you said.
+
+**Laura Milatello:** What a what a great start, a great first job. Uh, (laughing) I agree.
+
+**Laura Milatello:** Okay, so I want to switch gears a little bit. I know you have worked with the railways. And trains certainly have, you know, some romance to to a lot of people, but to a passenger, um, driving a train seems pretty straightforward. Um, so I wondered if you could tell us about some of the interesting insights you've learned working with railway engineers and conductors and and those sorts of folks.
+
+**Emily Roth:** Yep, uh, no, that's that's been a a fun strand of research, uh, as well. And, um, you know, one of the interesting things for me early on when I started to work in the railroad industry, relative to the nuclear industries, that in the nuclear industry people spent a lot of time, um, concerned about risk and concerned about safety. But but in fact, while, uh, you know, there's low probability risks that we're trying to manage, uh, of of, you know, of, of core meltdown, um, and accidents, there really are very few fatalities, very few, uh, accidents or or or people getting hurt. Um, whereas in railroads, that's much less the case. So, uh, roadway workers are are constantly at at at risk, um, including at risk of being hit by, uh, trains, especially if the trains aren't aren't, uh, if they're not looking, you know, if they're looking down at the rail and they weren't expecting a train, the train wasn't supposed to be coming by at that time or in that direction, um, people can get hurt.
+
+**Emily Roth:** And so, um, one of the things that we, uh, observed, uh, both through our interviews, but but more importantly, actually, through actual observation, actually riding on trains and and and riding on, um, rail cars with, um, roadway workers, is that everyone is spend spends a lot of time, um, worrying about each other and giving each other heads up to avoid these kinds of unexpected situations that that might, um, create problems. So, um, dispatchers who, who's job it is to, you know, route trains and and assign roadway workers to work in left in areas, will, uh, alert roadway workers if a train, if they might be scheduling a train that they hadn't otherwise anticipated. And if a train, um, comes by and see a train going in the other direction and had just seen some roadway workers earlier, he'll call the roadway workers on the radio and alert them that the train is coming and and alert the the the other train that there are roadway workers on the on the track. And these are not formal processes, they're not trained to do this, they're not uh, formally expected to do this. Um, and when you point out that they're doing this, um, they would say to me, oh, uh, these are courtesies, you know, the the the term they use for for this kind of behavior is is they're courtesies. But in fact, what they are is informal strategies that aren't documented, but that are, um, promulgated throughout the organization that increase, um, the resilience of the organization, increase safety and, um, you know, it increase productivity as well. Uh, so, so I think that the the that collaborative nature and that emergent behavior was was one of the striking things I learned in that industry.
+
+**Laura Milatello:** That is so interesting. That, uh, so it sounds like some of the things that make that organization resilient are, um, are completely not part of procedures in any way. This is they're they're thinking of them as courtesies.
+
+**Emily Roth:** Exactly. And it-
+
+**Laura Milatello:** Yeah.
+
+**Emily Roth:** Oh, sorry, and I was just going to say even the the the use of that language to signal that I don't really have to do this, I'm not being asked to do this, but but it's an important thing to do.
+
+**Laura Milatello:** Yeah, so how do you how does an organization support that kind of, uh, behavior?
+
+**Emily Roth:** Right. So I, you know, um, I I think this is an interesting question because as I, uh, you know, I I want to say it's almost not it's not a question that has been sufficiently pursued because, uh, what I think, what is interesting to me is that, um, since it isn't taught, you know, there isn't formally covered in in courses, the question is how does it promulgate through the system and how does it continue to be supported? Um, and frankly, as, um, as workload increases, these strategies may be some of the first ones that are vulnerable because they are discretionary. So, um, one of the conclusions we drew from our work is is the importance of, you know, documenting these strategies and highlighting their importance so that, uh, they are either directly supported or if if they can't be directly supported, then then you create, you know, uh, you you you provide the same service in another way, you know, maybe automatic alerts or, uh, messages or, but, uh, yeah.
+
+**Laura Milatello:** Yeah, so this is such an important insight. So these these informal things that increase the safety of the system are likely to be things that are shed when workload gets too high. And so just uncovering those kind of almost invisible things that make such a big difference and bring them to people's attention, um, feels like such an important contribution there.
+
+**Emily Roth:** Yeah. It was really interesting, yeah.
+
+**Laura Milatello:** Okay, so, um, what we've been kind of reflecting a lot if we if we kind of think about, um, current days and looking forward, what are some of the NDM related research directions that you're most excited about now?
+
+**Emily Roth:** Okay, so, um, you know, I I think what's most impressive to me about NDM right now is how healthy it is and how accepted it is across a variety of domains. You know, there was recently the NDM conference, uh, out here, uh, in San Francisco and there's the, uh, book that was published, just published, the Oxford Handbook of Expertise, that that really showcases all the different areas that, um, NDM, uh, uh, is actively involved in. So healthcare, sports, cyber security, you name it. Uh, people understand the value of understanding, you know, decision making in the real world and and and trying to, you know, document it and support it.
+
+**Emily Roth:** Um, so so that's one thing that I think is exciting. But, uh, another thing that that that I think, um, is an interesting new challenge that that Laura, um, you and I have have had, uh, the opportunity to work on is to apply NDM techniques, um, you know, the critical decision interview method, um, among others, to, uh, try and inform the envisioned world. Um, so there are lots of, uh, new systems that are being developed, uh, uh, you know, all the way from, um, self-driving cars, to, uh, aircraft that that that are used almost as taxis, to envisioned, um, unmanned vehicles of various sorts. And we we don't have a handle on how people are going to operate in this new world, this envisioned world.
+
+**Emily Roth:** Um, and so, um, you and I and the ADS team had an opportunity to to, um, uh, face that challenge, uh, head on in the context of trying to think about, um, the a world in which, uh, a new kind of helicopter, a next generation, uh, army helicopter, uh, is likely to operate where both the world is, um, likely to to be more dangerous, uh, with, uh, enemies that are near peer, uh, but but also the likelihood that there's much more automation, uh, variety of UAS that are operating on their, um, on their own intelligently. And and the question is, uh, what's the role of the human in in those situations and, uh, what's likely to be challenging.
+
+**Emily Roth:** And, uh, so, so we had the opportunity to see how we can use NDM techniques to support an understanding of the invisioned world. And, uh, uh, you know, we our work there involved, uh, trying to study surrogate organizations. You know, we we we don't know the the the the details of how a pilot is is going to deal with, um, you know, next generation helicopters because they're not built yet and and the world doesn't exist. But but there are some analogs that can help us understand the likely challenges and extrapolate the challenges. And so, um, we did that, we interviewed Kaowa operators and Apache operators and and and other kinds of specialists to, um, get a chance to understand both what's what's already hard in the world, in today's world, what's likely to be harder, and and what kind of knowledge and expertise humans bring to the party that we want to make sure is preserved in the envisioned world. So, so, uh, there are some things that we know are going to be challenging for automation, um, that that people do well today and that are likely to be needed in the future as well. Uh, and, uh, using NDM techniques to get at that is is I think turned out actually to be quite valuable.
+
+**Laura Milatello:** Yeah, that was a, that's been great, great work and it's been really fun to work together on it. Um, I wanted to just kind of reflect on your response. Um, you started out saying that NDM is healthy and accepted and I I'm thinking even over the course of my career, I feel like when I started out, we were thinking there were lots of questions about whether cognitive task analysis is a legitimate method. And interviews and observations, does that really count? And and if you fast forward to this project, we just worked on, no one was asking those kind of questions. We were asking how can we combine cognitive task analysis and work domain analysis and imprint modeling and all these, um, all these different kinds of tools, how can we kind of adapt them and leverage them and combine them in interesting ways to ask the to answer these novel novel questions. So, so the NDM community really has come a long way.
+
+**Emily Roth:** Yeah. No, that's really exciting. Yeah, yeah.
+
+**Brian Moon:** So Emily, you've been very generous with, uh, with your work over the years and mentoring lots of folks and and I think lots of folks know a bit about you, uh, and certainly through your work, but I'm wondering, is there anything, uh, let's let's give you two things. Tell us two things about you that the audience probably doesn't know.
+
+**Emily Roth:** (laughing) Okay. Uh, okay, let's see. So, um, you know, uh, so the I I I think things that are outside of my, you know, sort of professional persona, uh, that that are valuable and and and important to me. Um, one of them, I think, is, um, how, uh, I I really love to entertain and I really love to cook, uh, and to to cook for, uh, for for lots of guests. And the, that turned out to be, uh, I think a a very rewarding aspect of my life, uh, in that, uh, it helps to bring a sense of community to to people around, um, me and I, you know, I don't necessarily cook fancy, but, but, uh, bringing people together, uh, has turned out to to be important for me and and and people have given me feedback that that it's, it's helped, um, you know, help, help them, uh, be part of the, the community. So, so that's a a part of, uh, my, uh, sense of self, uh, that that may be a little different.
+
+**Emily Roth:** Um, and then the other part, uh, I suppose another thing that that that people may not fully know about me is that while I, uh, champion, uh, qualitative methods and observations and interviews, my family, I'm surrounded by quants. (laughing) Uh, you know, my husband is, uh, an economist that that uses mathematical tools. Um, my older son, Aaron, is a computer scientist that uses mathematical tools. Um, my younger son, Ben, is is an econ different kind of economist, he's a development economist, he's interested in, um, uh, how to, uh, support people in in countries that are, uh, uh, poor, uh, but he also brings mathematical tools, uh, to bear. And their wives are all quants. So my, uh, Aaron's wife, Kathy, is a, uh, a PhD mathematician who who works as a a software engineer and, uh, my other daughter-in-law, Stephanie, is, uh, a PhD economist, uh, who's works at a startup but in very mathematical ways.
+
+**Emily Roth:** Uh, but we all, you know, all respect each other and I think all the work is exciting.
+
+**Brian Moon:** And so you can use the food to avoid those debates at the dinner table, is that the plan?
+
+**Emily Roth:** (laughing) Exactly, exactly, exactly.
+
+**Brian Moon:** Good strategy.
+
+**Laura Milatello:** Yeah. Yeah, and as someone who's been lucky enough to to be at some of your dinner parties, um, they are fun and you do do such a nice job of bringing together scientists and physicians and, you know, just all kinds of people who have, uh, who can learn from each other and and just enjoy a really nice casual meal.
+
+**Emily Roth:** Yeah, and vice versa. I remember nice gatherings at yours. Thanks.
+
+**Laura Milatello:** Uh, so, I think, um, the the last question here on the list is, I'm wondering if you, um, if you could tell us about two or three books maybe outside of the NDM literature that have influenced your thinking?
+
+**Emily Roth:** Okay. Uh, sure. So, um, I think there was there's one book, uh, that particularly, uh, influenced my thinking and and also reassured me, uh, relative to our own work as human factors scientists and and people struggling with design of systems for people, the design of first of a kind systems. Um, and that's a book that was written in 1982, uh, by an engineer, um, that's called To Engineer is Human, the role of failure in successful design. And it was written by Henry Petrosky.
+
+**Emily Roth:** Um, and and he basically is a storyteller, um, and he, um, tells many stories about how, uh, really even engineering design is is experimental and it's trial and error. And we we think about, you know, we think that engineers have, uh, you know, straightforward formulas for how to, uh, create something and and and, you know, and and they just do simple, uh, math. Um, but but that turns out to work better for well-understood systems. You know, if you if you, you know, already know how to build an elevator, then the next, you know, the second elevator and the third elevator, um, are are pretty routine and you can just apply, uh, formulas and and and do okay. But when you're building the first of a kind, the first one, um, it's it's definitely an envisioning process, it's a trial and error process, and, um, accidents happen before you finally, um, develop robust systems that that you could apply again and again. And and, uh, an example that he uses is suspension bridges. You know, there are now beautiful and robust suspension bridges, like the, um, you know, the the iconic Brooklyn Bridge, um, that, um, are are wonderful and no one worries about them falling down, but the first suspension bridges that that, uh, were built over rivers, uh, did fall down. And and it was a trial and error process. And so a little bit I feel, you know, we shouldn't beat ourselves, uh, for the fact that when whenever we find ourselves designing a new system, we we fall back on, uh, well, we're going to have to do an evaluation or, you know, we'll need to put it in place and and continue to get feedback on on how well it's working and and and modify it. Um, that's just how, uh, the design process of first of a kind systems work.
+
+**Emily Roth:** So that's one book. Um, and, uh, I can give you a different book, which is very different.
+
+**Laura Milatello:** Yeah, I mean the one you just mentioned, I have, I'm not familiar with that one at all, but that sounds very interesting.
+
+**Emily Roth:** Yeah, I I definitely, yeah, that's one that I think I I recommend. It it just, uh, really stood out.
+
+**Laura Milatello:** Well, and it's such an important perspective because often the sponsor is hoping you're going to get it right the first time and has an expectation that you'll be able to tell him exactly when it will be ready and right.
+
+**Emily Roth:** (laughing) Yeah, exactly, exactly, exactly. Uh, so the the second book is is really very different, uh, and I I just picked up a a recent book that that that sort of really, uh, impressed me. I I, uh, really enjoy reading memoirs and and stories about real people and their struggles and how they've overcome the struggles and especially books about women. And, uh, there's a recent book that that was written in 2019 by Stephanie, uh, Land, uh, which is very highly readable and and, uh, highly thought-provoking. And it's called Maid, Hard Work, low pay and a mother's will to survive.
+
+**Emily Roth:** And it's really about, um, her own experience, um, and precariouness. Uh, she, uh, had been planning to go on to college but but ran into financial troubles and and, uh, eventually became homeless and she had a young child. And she took on, you know, many different kinds of jobs. Um, and she eventually, um, got herself on her feet and applied for and got financial support, uh, to go to college. And and so it was a, you know, a success story in that sense. But but it really brought home, um, the precarious financial situations that people can find themselves in and and how they can very rapidly, um, without any fault of their own, find themselves, uh, homeless. And, um, how hard it is to come up with the knowledge and and maybe even more importantly, the time that you need to invest, um, to get yourself out of those situations. Uh, to obtain the governmental governmental and non-governmental support you need to get back on your feet. And in her case, you know, she eventually figured it out and and and she describes in great detail all the paperwork that was involved in getting, uh, financial support to go to college. Uh, and how uphill a struggle it was, uh, and how it, you know, it required uh, concerted attention and considerable, you know, mental, uh, workload, uh, devoted to that. And which you, you know, uh, may not have the the luxury to have when you're in those kinds of situations.
+
+**Laura Milatello:** Wow. Yeah, I don't know that book either, but I I definitely want to check it out.
+
+**Laura Milatello:** Great. Okay, so the last part I have here, this is an associative thinking exercise.
+
+**Emily Roth:** (laughing)
+
+**Laura Milatello:** So I am going to read a word and I'm going to ask you to just say the first thing that comes to mind. Um, your answer should be three words or or less. And then when we get to the end of the list, if there any you want to return to and give follow up or more explanation, you you can pick one. Okay?
+
+**Emily Roth:** Okay.
+
+**Laura Milatello:** All right, you ready?
+
+**Emily Roth:** Okay.
+
+**Laura Milatello:** Okay, the first one is autonomy.
+
+**Emily Roth:** Autonomy, brittleness.
+
+**Laura Milatello:** Oh, you went right. No, no, that's great. (laughing) Okay. How about nuclear power?
+
+**Emily Roth:** Robustness.
+
+**Laura Milatello:** Huh. Okay, working from home.
+
+**Emily Roth:** Luxury. (laughing)
+
+**Laura Milatello:** Uh, scenario.
+
+**Emily Roth:** Scenario, fundamental.
+
+**Laura Milatello:** Expertise.
+
+**Emily Roth:** Difficult to access.
+
+**Laura Milatello:** Okay. Trade-offs.
+
+**Emily Roth:** (groans) Ooh. Can I use fundamental again? Inherent.
+
+**Laura Milatello:** Inherent. Okay. Uh, collaboration.
+
+**Emily Roth:** Critical.
+
+**Laura Milatello:** And table tennis.
+
+**Emily Roth:** Ooh. Uh, uh, so important for family development. How's that?
+
+**Laura Milatello:** Great. (laughing) That was fun. Are there any you want to elaborate on?
+
+**Emily Roth:** Uh, you know, you know, maybe the the first one, automation where I came back with brittleness. (laughing) And and that's a tough one because, uh, you know, automation is important, it it's how we advance, you know, uh, uh, cars used to have manual transmission and now it it people only use manual transmission for sport, right? Because they enjoy it. Uh, and and and so automation is important and valuable and it it allows people to do more than, um, they're able to they were able to do before, so so it's a very positive thing. On the other hand, um, designers and engineers, um, are are classically overconfident, and that's why scenarios are important. You know, they, uh, and and and it it's too easy to, um, think about all all the ways things can go right and and and not enough about how things can go wrong. So that's where the engineer is human, uh, was was important to me. Uh, so, uh, in our work, and I I know Laura, in your work as well, um, we think very hard about the role of the human in in adding to the resilience of the system. So so we're not anti-automation, but but we we're trying to be cautious about how to introduce automation and how to make sure people can understand the automation and contribute to more resilient joint performance.
+
+**Laura Milatello:** Well said. (laughing) I completely agree. (laughing)
+
+**Emily Roth:** (laughing)
+
+**Laura Milatello:** Uh, well, thank you Emily for speaking with us today. Um, this has been really fun.
+
+**Emily Roth:** Yeah, thank you. This has been fun. It was, uh, nice to speak to you and Brian.
+
+**Laura Milatello:** So on that note, I want to thank you for joining us for the NDM podcast. I'm Laura Milatello.
+
+**Brian Moon:** And I'm Brian Moon. Learn more about naturalistic decision making and where to follow us by visiting naturalisticdecisionmaking.org.
+
+(Music)
